@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.33" /> <!-- Check for the latest stable version -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="FlappyBirdGame\FlappyBirdMainForm.cs" />
+    <Compile Include="FlappyBirdGame\FlappyBirdMainForm.Designer.cs">
+      <DependentUpon>FlappyBirdMainForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="FlappyBirdGame\FlappyBirdMainForm.resx">
+      <DependentUpon>FlappyBirdMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlappyBirdGame\Resources\ground.png" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\New Piskel (1).gif" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\New Piskel (2).gif" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\New Piskel.gif" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\pipe.png" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\pipedown.png" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\pterodactilo  (1).gif" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\pterodactilo  (2).gif" />
+    <EmbeddedResource Include="FlappyBirdGame\Resources\pterodactilo .gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="DoodleJumpGame\DoodleJumpMainForm.cs" />
+    <Compile Include="DoodleJumpGame\DoodleJumpMainForm.Designer.cs">
+      <DependentUpon>DoodleJumpMainForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="DoodleJumpGame\DoodleJumpMainForm.resx">
+      <DependentUpon>DoodleJumpMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoodleJumpGame\Resources\Background Doodle Jump.png" />
+    <EmbeddedResource Include="DoodleJumpGame\Resources\Roca.png" />
+    <EmbeddedResource Include="DoodleJumpGame\Resources\dinosaurio.derecha.png" />
+    <EmbeddedResource Include="DoodleJumpGame\Resources\dinosaurio.png" />
+  </ItemGroup>
+
+</Project>
