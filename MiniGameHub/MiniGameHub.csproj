@@ -12,4 +12,16 @@
     <PackageReference Include="MySql.Data" Version="8.0.33" /> <!-- Check for the latest stable version -->
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="DatabaseHelper.cs" />
+    <Compile Include="Form1.cs" />
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameSelectionForm.cs" />
+    <Compile Include="LoginForm.cs" />
+    <Compile Include="RegisterForm.cs" />
+  </ItemGroup>
+
 </Project>
