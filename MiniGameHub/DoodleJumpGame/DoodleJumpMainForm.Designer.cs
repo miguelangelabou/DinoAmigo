@@ -216,7 +216,12 @@ namespace MiniGameHub.DoodleJumpGame
         private System.Windows.Forms.PictureBox pictureBox3; // Platform 2
         private System.Windows.Forms.PictureBox pictureBox4; // Platform 3
         private System.Windows.Forms.PictureBox pictureBox5; // Platform 4
-        // Removed pictureBox6 through pictureBox11 declarations for this example
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.PictureBox pictureBox11;
         private System.Windows.Forms.PictureBox Ground;
         private System.Windows.Forms.Label score;
         private System.Windows.Forms.Timer timer1;
