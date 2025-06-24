@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|c:\\users\\wondows\\desktop\\dinoamigo\\dinoamigo\\auth\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|solutionrelative:dinoamigo\\auth\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|c:\\users\\wondows\\desktop\\dinoamigo\\dinoamigo\\utils\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|solutionrelative:dinoamigo\\utils\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|c:\\users\\wondows\\desktop\\dinoamigo\\dinoamigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|solutionrelative:dinoamigo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|c:\\users\\wondows\\desktop\\dinoamigo\\dinoamigo\\utils\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|solutionrelative:dinoamigo\\utils\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|c:\\users\\wondows\\desktop\\dinoamigo\\dinoamigo\\utils\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B62CB149-82D7-455C-AA84-6EAE19718168}|DinoAmigo\\DinoAmigo.csproj|solutionrelative:dinoamigo\\utils\\database\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "schema.sql ",
+              "DocumentMoniker": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Utils\\Database\\schema.sql",
+              "RelativeDocumentMoniker": "DinoAmigo\\Utils\\Database\\schema.sql",
+              "ToolTip": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Utils\\Database\\schema.sql",
+              "RelativeToolTip": "DinoAmigo\\Utils\\Database\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-24T02:24:34.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Program.cs",
+              "RelativeDocumentMoniker": "DinoAmigo\\Program.cs",
+              "ToolTip": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Program.cs",
+              "RelativeToolTip": "DinoAmigo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:49:28.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Auth\\AuthForm.cs",
+              "RelativeDocumentMoniker": "DinoAmigo\\Auth\\AuthForm.cs",
+              "ToolTip": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Auth\\AuthForm.cs",
+              "RelativeToolTip": "DinoAmigo\\Auth\\AuthForm.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAnwM8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:42:26.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Utils\\Database\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DinoAmigo\\Utils\\Database\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\wondows\\Desktop\\DinoAmigo\\DinoAmigo\\Utils\\Database\\DatabaseHelper.cs",
+              "RelativeToolTip": "DinoAmigo\\Utils\\Database\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:11:27.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
